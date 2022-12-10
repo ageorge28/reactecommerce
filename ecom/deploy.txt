@@ -1,0 +1,3 @@
+set <BrowserRouter basename={'ecom'}> in App.js
+
+set "homepage": '/ecom/' in package.json
